@@ -11,6 +11,7 @@ Welcome to our e-commerce web app! This project is built with Next.js, NextBacke
 - **MongoDB**: A NoSQL database for storing product and user information.
 - **Redux Toolkit**: State management library for managing application state.
 - **Axios**: A promise-based HTTP client for making API requests.
+- **Next Auth**: use for sing in with social app or id like google & linkedean .
 - **Firebase**: Used for image uploads and storage.
 - **React Icons**: A library of popular icons as React components.
 
